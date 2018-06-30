@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ciph</string>
+    <string name="hint_message">Message</string>
+    <string name="label_cipher">CIPHER</string>
+    <string name="label_message">label_message</string>
+    <string name="error_empty">Message Empty</string>
+</resources>
